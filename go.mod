@@ -1,6 +1,6 @@
-module github.com/dstcompany/go-microservice-lib
+module github.com/rifqiakrm/go-microservice-lib
 
-go 1.13
+go 1.15
 
 require (
 	github.com/HdrHistogram/hdrhistogram-go v1.0.1 // indirect
