@@ -18,5 +18,5 @@ It comes pre-configured with :
 Use this command to install the blueprint
 
 ```bash
-go get github.com/dstcompany/go-microservice-lib
+go get github.com/rifqiakrm/go-microservice-lib
 ```
